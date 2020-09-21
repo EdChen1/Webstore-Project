@@ -1,0 +1,17 @@
+#this file  is used by pip to install required python packages 
+#Usage: pip install -r requirements.txt
+
+#pip 
+pip == 20.1.1
+
+#Djano Framework 
+Djano == 3.0.7
+
+#Django Packages
+asgiref==3.2.7
+Pillow==7.1.1
+pytz==2019.3
+sqlparse==0.3.1
+
+
+
